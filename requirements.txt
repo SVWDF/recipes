@@ -44,3 +44,4 @@ python-ldap==3.4.0
 django-auth-ldap==4.0.0
 pytest-factoryboy==2.1.0
 pyppeteer==0.2.6
+test=test
